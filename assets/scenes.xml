@@ -1,0 +1,92 @@
+<scenes>
+	<scene>
+		<channel id="4">227</channel>
+		<channel id="8">227</channel>
+		<channel id="12">227</channel>
+		<channel id="16">227</channel>
+		<channel id="20">227</channel>
+		<channel id="24">227</channel>
+		<time>5</time>
+	</scene>
+	<scene>
+		<channel id="4">127</channel>
+		<channel id="8">127</channel>
+		<channel id="12">127</channel>
+		<channel id="16">127</channel>
+		<channel id="20">127</channel>
+		<channel id="24">127</channel>
+		<time>5</time>
+	</scene>
+	<scene>
+		<channel id=1>255</channel>
+		<channel id=2>255</channel>
+		<channel id=3>255</channel>
+		<channel id=5>255</channel>
+		<channel id=6>255</channel>
+		<channel id=7>255</channel>
+		<channel id=9>255</channel>
+		<channel id=10>255</channel>
+		<channel id=11>255</channel>
+		<channel id=13>255</channel>
+		<channel id=14>255</channel>
+		<channel id=15>255</channel>
+		<time>1</time>
+	</scene>
+	<scene>
+		<channel id="28">227</channel>
+		<channel id="32">227</channel>
+		<channel id="36">227</channel>
+		<time>5</time>
+	</scene>
+	<scene>
+		<channel id="28">127</channel>
+		<channel id="32">127</channel>
+		<channel id="36">127</channel>
+		<time>5</time>
+	</scene>
+	<scene>
+		<channel id=25>255</channel>
+		<channel id=26>255</channel>
+		<channel id=27>255</channel>
+		<channel id=29>255</channel>
+		<channel id=30>255</channel>
+		<channel id=31>255</channel>
+		<channel id=33>255</channel>
+		<channel id=34>255</channel>
+		<channel id=35>255</channel>
+		<time>1</time>
+	</scene>
+	<scene>
+		<channel id=1>255</channel>
+		<channel id=5>255</channel>
+		<channel id=9>255</channel>
+		<channel id=13>255</channel>
+	</scene>
+	<scene>
+		<channel id=2>255</channel>
+		<channel id=6>255</channel>
+		<channel id=10>255</channel>
+		<channel id=14>255</channel>
+	</scene>
+	<scene>
+		<channel id=3>255</channel>
+		<channel id=7>255</channel>
+		<channel id=11>255</channel>
+		<channel id=15>255</channel>
+	</scene>
+	<scene>
+		<channel id=25>255</channel>
+		<channel id=29>255</channel>
+		<channel id=33>255</channel>
+	</scene>
+	<scene>
+		<channel id=26>255</channel>
+		<channel id=30>255</channel>
+		<channel id=34>255</channel>
+	</scene>
+	<scene>
+		<channel id=27>255</channel>
+		<channel id=31>255</channel>
+		<channel id=35>255</channel>
+	</scene>
+</scenes>

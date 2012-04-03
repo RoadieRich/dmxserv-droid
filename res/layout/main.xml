@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@+id/topLayout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:id="@+id/buttonLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ToggleButton
+            android:id="@+id/btnScene1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Scene 1" android:soundEffectsEnabled="false" 
+            android:textOff="Scene 1" android:textOn="Scene 1"/>
+
+        <ToggleButton
+            android:id="@+id/btnScene2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Scene 2" android:soundEffectsEnabled="false"
+            android:textOff="Scene 2" android:textOn="Scene 2"/>
+
+        <ToggleButton
+            android:id="@+id/btnScene3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Scene 3" android:soundEffectsEnabled="false"
+            android:textOff="Scene 3" android:textOn="Scene 3"/>
+
+        <ToggleButton
+            android:id="@+id/btnScene4"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Scene 4" android:soundEffectsEnabled="false"
+            android:textOff="Scene 4" android:textOn="Scene 4"/>
+
+        <ToggleButton
+            android:id="@+id/btnScene5"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Scene 5" android:soundEffectsEnabled="false"
+            
+            android:textOff="Scene 5" android:textOn="Scene 5"/>
+
+        <ToggleButton
+            android:id="@+id/btnScene6"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Scene 6" android:soundEffectsEnabled="false"
+            android:textOff="Scene 6" android:textOn="Scene 6"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/bottomLayout"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:baselineAligned="false" >
+
+        <LinearLayout
+            android:id="@+id/leftGroupLayout"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/rightGroupLayout"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
