@@ -1,5 +1,6 @@
 package com.roadierich;
 
-public class XMLGen {
+public class XMLGen
+{
 
 }
